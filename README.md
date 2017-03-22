@@ -5,7 +5,8 @@ Pony is a great stable botnet with useful functions. This comes with the web pan
 
 # Wait More Leaked 
 
-[![Offset 7 Leaked Source](http://offset7.com/)]
+[![Offset 7 Leaked Source]]
+http://offset7.com/
 
 
 
